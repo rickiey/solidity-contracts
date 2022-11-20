@@ -1,7 +1,7 @@
 require("@nomicfoundation/hardhat-toolbox");
 
 require('dotenv').config();
-require("@nomiclabs/hardhat-ganache");
+// require("@nomiclabs/hardhat-ganache");
 
 
 // Go to https://www.alchemyapi.io, sign up, create
